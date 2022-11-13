@@ -1,8 +1,9 @@
-## - 👋 Hi, I’m Christ John Mercurio
-### - 👀 I’m interested in anime, movie series, video games, and sleeping.  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I’m Christ John Mercurio :coffee:
+
+- 👀 I’m interested in anime, movie series, video games, and sleeping.  
+- :bulb: I’m currently learning Laravel 9
+- :fire: My goal is to become a Full Stack Web Developer
+<!--- 📫 How to reach me ... --->
 
 <!---
 CJS-Mercurio/CJS-Mercurio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
