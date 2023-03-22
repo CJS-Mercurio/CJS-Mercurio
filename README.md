@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Christ John Mercurio :coffee:
 
 - 👀 I’m interested in anime, movie series, video games, and sleeping.  
-- :bulb: I’m currently learning Laravel 9 and JavaScript
+- :bulb: I’m currently learning NestJS Framework
 - :fire: My goal is to become a Full Stack Web Developer
 
 #### Basic familiarity with:
@@ -11,6 +11,9 @@
 - Java
 - PHP
 - Python
+- Laravel 9 Framework
+- JavaScript
+- Node, Express
 <!--- 📫 How to reach me ... --->
 
 <!---
