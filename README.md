@@ -13,7 +13,7 @@ My goal is to become a Full Stack Web Developer, and I am working towards achiev
 
 ### 🧑‍💻 Technologies and tools I'm familiar/studied with:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,py,php,laravel,nodejs,express,nestjs,ts,git,github,md,mongo,mysql,postman,vscode,netlify&perline=10" />
   </a>
