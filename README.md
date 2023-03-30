@@ -1,5 +1,7 @@
-##👋 Hi there, I’m Christ John Mercurio! :coffee:
-- 👀 I am a software developer with a keen interest in building web applications. I enjoy spending my free time watching anime, movie series, and playing video games. I also believe in the importance of getting enough sleep to be productive throughout the day.
+## 👋 Hi there, I’m Christ John Mercurio! :coffee:
+- 👀 I am a software developer with a keen interest in building web applications. 
+I enjoy spending my free time watching anime, movie series, and playing video games. 
+I also believe in the importance of getting enough sleep to be productive throughout the day.
 
 - :bulb: What I'm currently learning:
 I am currently learning NestJS Framework to enhance my skills in building scalable and maintainable server-side applications.
@@ -7,16 +9,14 @@ I am currently learning NestJS Framework to enhance my skills in building scalab
 - :fire: My goal:
 My goal is to become a Full Stack Web Developer, and I am working towards achieving this by constantly improving my skills and learning new technologies.
 
-#### Technologies I'm familiar with:
-- C++: <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-- HTML & CSS: <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-- COBOL: <img src="https://img.icons8.com/color/48/000000/cobol.png"/>
-- Java: <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-- PHP: <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
-- Python: <img src="https://img.icons8.com/color/48/000000/python.png"/>
-- Laravel 9 Framework: <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
-- JavaScript: <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-- Node, Express: <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/express.png"/>
+
+### 🧑‍💻 Technologies and tools I'm familiar/studied with:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,py,php,laravel,nodejs,express,nestjs,ts,git,github,md,mongo,mysql,postman,vscode,netlify&perline=10" />
+  </a>
+</p>
 
 
 <!-- How to reach me:
