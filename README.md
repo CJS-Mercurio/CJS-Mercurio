@@ -1,13 +1,14 @@
 ## 👋 Hi there, I’m Christ John Mercurio! :coffee:
-- 👀 I am a software developer with a keen interest in building web applications. 
-I enjoy spending my free time watching anime, movie series, and playing video games. 
-I also believe in the importance of getting enough sleep to be productive throughout the day.
+- 👀 I am currently working as a Junior Backend Developer. 
+- 💡 I’m currently learning: NestJS, Node, Express, MongoDB
+- 🔥 My goal is to become a Full Stack Web Developer
+- 🎭 I enjoy spending my free time watching anime, movie series, and playing video games. 
 
-- :bulb: What I'm currently learning:
+<!-- - :bulb: What I'm currently learning:
 I am currently learning NestJS Framework to enhance my skills in building scalable and maintainable server-side applications.
 
 - :fire: My goal:
-My goal is to become a Full Stack Web Developer, and I am working towards achieving this by constantly improving my skills and learning new technologies.
+My goal is to become a Full Stack Web Developer, and I am working towards achieving this by constantly improving my skills and learning new technologies. -->
 
 
 ### 🧑‍💻 Technologies and tools I'm familiar/studied with:
