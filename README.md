@@ -15,7 +15,7 @@ My goal is to become a Full Stack Web Developer, and I am working towards achiev
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,py,php,laravel,nodejs,express,nestjs,ts,git,github,md,mongo,mysql,postman,vscode,netlify&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,nodejs,express,nestjs,ts,git,github,md,mongo,mysql,postman,vscode" />
   </a>
 </p>
 
