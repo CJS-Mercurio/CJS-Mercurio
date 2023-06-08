@@ -1,6 +1,11 @@
 ## 👋 Hi there, I’m Christ John Mercurio! :coffee:
 - 👀 I am currently working as a Junior Backend Developer. 
-- 💡 I’m currently learning: NestJS, Node, Express, MongoDB
+- 💡 I’m currently learning:
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 - 🔥 My goal is to become a Full Stack Web Developer
 - 🎭 I enjoy spending my free time watching anime, movie series, and playing video games. 
 
@@ -18,30 +23,6 @@ My goal is to become a Full Stack Web Developer, and I am working towards achiev
     <img src="https://skillicons.dev/icons?i=html,css,js,laravel,nestjs,ts,github,mongo,mysql,postman,vscode" />
   </a>
 </p>
-
-
-<!-- How to reach me:
-You can contact me through my GitHub profile or send me an email at [your_email_address]. I'm always open to discussing new opportunities and collaborations.
-
-Thank you for visiting my profile! -->
-
-<!-- ## 👋 Hi, I’m Christ John Mercurio :coffee:
-
-- 👀 I’m interested in anime, movie series, video games, and sleeping.  
-- :bulb: I’m currently learning NestJS Framework
-- :fire: My goal is to become a Full Stack Web Developer
-
-#### Basic familiarity with:
-- C++
-- Html & CSS, Bootstrap
-- COBOL
-- Java
-- PHP
-- Python
-- Laravel 9 Framework
-- JavaScript
-- Node, Express -->
-<!--- 📫 How to reach me ... --->
 
 <!---
 CJS-Mercurio/CJS-Mercurio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
