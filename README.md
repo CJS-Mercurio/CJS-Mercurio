@@ -1,7 +1,9 @@
 ## 👋 Hi there, welcome to my GitHub Profile! 
 
 ### ☕ I'm Christ John || Mercurio || Mercs
+<!--
 <img align="right" height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+--->
 
 - 👀 I am a Junior Backend Developer, currently working on enhancing my skills.
 - 💡 I'm currently focused on learning:
@@ -9,9 +11,12 @@
     ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+    ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+    ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 - 🔥 My goal is to become a Full Stack Web Developer.
 - 🚩 I'm dedicated to continuously improving my skills and keeping up with new technologies.
-- 🎭 In my free time, I enjoy watching anime, movie series, and playing video games. 
+- 🎭 In my free time, I enjoy watching anime, movie series, and playing games. 
 
 ### ⚙️ Technologies and Tools I'm Familiar With/Studied:
 
